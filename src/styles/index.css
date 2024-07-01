@@ -1,11 +1,3 @@
 html {
     height: 100%;
 }
-#navbarNav * {
-    color: white;
-}
-#app {
-    display: flex;
-    flex-direction: column;
-    align-items: space-between;
-}
