@@ -22,7 +22,7 @@ const Home = () => {
 					<Jumbotron  />
 				</div>
 				<div className="row">
-					<div className="d-flex flex-column align-items-center flex-wrap flex-md-row justify-content-md-between mt-4 mb-4">
+					<div className="d-flex flex-column align-items-center flex-wrap flex-md-row justify-content-md-around mt-4 mb-4">
 						<Cards
 							img="https://www.hola.com/imagenes/viajes/20171128102570/seis-destino-austria-clave-invernal-navidad/0-511-634/innsbruck-navidad-invierno-t.jpg"
 							cardTitle="Austria"
